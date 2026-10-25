@@ -1,0 +1,22 @@
+{
+  "overview": "A client-side medical education companion that connects to Bluetooth vitals devices, analyses vitals and blood markers against cited clinical ranges, ranks possible conditions, and keeps a local FHIR-inspired health record.",
+  "features": [
+    "Connect a Bluetooth vitals device and see a live chart",
+    "Enter blood markers with unit toggles and green/amber/red range indicators",
+    "Get ranked possible conditions with plain-language explanations and cited sources",
+    "Emergency stop banner for critical readings",
+    "Trend sparklines and direction arrows for repeated readings",
+    "Local FHIR-inspired health record with tabs, timeline and trend charts",
+    "Export the record as JSON or PDF and delete all data",
+    "Educational symptom checker with red-flag emergency stop"
+  ],
+  "category": "health",
+  "tags": [
+    "health",
+    "medical-education",
+    "client-side",
+    "bluetooth",
+    "accessibility"
+  ],
+  "last_updated": "2026-10-25T11:00:28.043Z"
+}
